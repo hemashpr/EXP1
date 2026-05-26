@@ -55,4 +55,4 @@ N.B.: Click on the fuse indicator to repair it, if it got fused.
 
 ## Result:
 
-Thus, successfully measured power using wattmeter
+Thus, successfully measured power using wattmeter under diffrent loading conditions
